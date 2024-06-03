@@ -20,3 +20,6 @@ This is a simple web application that generates random dog images using the Dog 
 
 3. **Reset the Page**:
    - Click the "Reset" button to refresh the page and remove the images.
+
+## Developer 
+ - Globes24media@gmail.com
